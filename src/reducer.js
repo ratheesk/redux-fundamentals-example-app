@@ -1,7 +1,5 @@
-// ** redux import
 import { combineReducers } from 'redux'
 
-// ** functions import
 import todosReducer from './features/todos/todosSlice'
 import filtersReducer from './features/filters/filtersSlice'
 
